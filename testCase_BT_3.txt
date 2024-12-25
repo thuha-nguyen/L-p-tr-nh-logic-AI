@@ -1,0 +1,50 @@
+test 1
+
+input
+Nhập điều kiện cho P(x)  x > 1
+Nhập điều kiện cho Q(x)  x % 2 == 0
+
+ouput
+Công thức đúng (True)
+
+test 2
+
+input
+Nhập điều kiện cho P(x)  x < 0
+Nhập điều kiện cho Q(x)  x % 2 == 0
+
+output
+Công thức sai (False)
+
+test 3
+
+input
+Nhập điều kiện cho P(x)  x > 1
+Nhập điều kiện cho Q(x)  x % 2 != 0
+
+output
+Công thức sai (False)
+
+test 4
+
+input
+Nhập điều kiện cho P(x)  x % 2 == 0
+Nhập điều kiện cho Q(x)  x > 1
+
+output
+Công thức đúng (True)
+
+test 5
+
+input
+Nhập điều kiện cho P(x)  x == 5
+Nhập điều kiện cho Q(x)  x < 10
+
+ouptut
+Công thức sai (False)
+
+
+
+
+
+
